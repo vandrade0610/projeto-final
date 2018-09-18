@@ -1,0 +1,17 @@
+{
+    "name": "alunos/projeto-final",
+    "description": "cadastro de personagem com MySQL PDO",
+    "type": "project",
+    "license": "BSD-3",
+    "authors": [
+        {
+            "name": "Vinicius Andrade",
+            "email": "viniciusandrade.1@hotmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "twbs/bootstrap": "^3.3@dev",
+        "components/jquery": "dev-master"
+    }
+}
